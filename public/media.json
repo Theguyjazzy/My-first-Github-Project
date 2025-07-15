@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "type": "image",
+    "title": "Sample Image 1",
+    "src": "/public/file.svg",
+    "description": "A sample SVG image from the public folder."
+  },
+  {
+    "id": 2,
+    "type": "image",
+    "title": "Sample Image 2",
+    "src": "/public/globe.svg",
+    "description": "Another SVG image."
+  },
+  {
+    "id": 3,
+    "type": "video",
+    "title": "Sample Video",
+    "src": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "description": "A sample video from the web."
+  }
+] 
